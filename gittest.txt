@@ -1,1 +1,1 @@
-test succeded!
+テスト
